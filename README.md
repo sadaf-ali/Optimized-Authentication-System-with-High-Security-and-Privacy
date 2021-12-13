@@ -1,2 +1,8 @@
 # Optimized-Authentication-System-with-High-Security-and-Privacy
 Authentication and privacy play an important role in the present electronic world. Biometrics and especially fingerprint-based authentication are extremely useful for unlocking doors, mobile phones, etc. Fingerprint biometrics usually store the attributes of the minutia point of a fingerprint directly in the database as a user template. Existing research works have shown that from such insecure user templates, original fingerprints can be constructed. If the database gets compromised, the attacker may construct the fingerprint of a user, which is a serious security and privacy issue. Security of original fingerprints is therefore extremely important. Ali et al. have designed a system for secure fingerprint biometrics; however, their technique has various limitations and is not optimized. In this paper, first we have proposed a secure technique which is highly robust, optimized, and fast. Secondly, unlike most of the fingerprint biometrics apart from the minutiae point location and orientation, we have used the quality of minutiae points as well to construct an optimized template. Third, the template constructed is in 3D shell shape. We have rigorously evaluated the technique on nine different fingerprint databases. The obtained results from the experiments are highly promising and show the effectiveness of the technique. 
+
+
+
+For Codes, kindly send an email to iit.sadaf@gmail.com
+
+Reference/Citation:  U. Sharma, P. Tomar, **Syed Sadaf Ali**, N. Saxena and R. S. Bhadoria, Optimized Authentication System with High Security and Privacy, Electronics, 2021.
